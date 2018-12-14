@@ -1,3 +1,6 @@
+* {
+	@import url('https://fonts.googleapis.com/css?family=Raleway');
+}
 body {
 	font-family: verdana, helvetica, arial, sans-serif;
 	font-size: 80%;
@@ -37,11 +40,18 @@ h3 {
 }
 
 a {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: #DC143C;
 	text-decoration: none;
+	
 
 
 }
+a:hover {
+	font-size: 32px;
+	text-transform: uppercase;
+	
+}
+
 
 
